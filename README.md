@@ -2,4 +2,4 @@
 Building a dashboard using HTML, CSS, and JS Vanilla 
 
 ## Live Demo:
-https://mramadan18.github.io/Dashboard-El-Joker/
+https://mramadan18.github.io/Dashboard-EGATOR
